@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srija19
+- 👋 Hi, I’m Srija
 - 🌱 I’m currently learning & implementing in my project
 - 📫 How to reach me ... srija19@outlook.com
 
